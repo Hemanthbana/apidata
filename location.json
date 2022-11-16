@@ -1,0 +1,74 @@
+db.location.insert (
+    [
+      {
+        "location_id": 1,
+        "location_name": "Ashok Vihar Phase 3, New Delhi",
+        "state_id": 1,
+        "state": "Delhi",
+        "country_name": "India"
+      },
+      {
+        "location_id": 2,
+        "location_name": "Ghandi Vihar Phase 3,Mumbai",
+        "state_id": 2,
+        "state": "Maharashtra",
+        "country_name": "India"
+      },
+      {
+        "location_id": 3,
+        "location_name": "Jeevan Bhima Nagar, Bangalore",
+        "state_id": 3,
+        "state": "Karnataka",
+        "country_name": "India"
+      },
+      {
+        "location_id": 4,
+        "location_name": "Charminar, Hyderbad",
+        "state_id": 4,
+        "state": "Telangana",
+        "country_name": "India"
+      },
+      {
+        "location_id": 5,
+        "location_name": "Beach Road, Vishakaptanam",
+        "state_id": 5,
+        "state": "Andhrapradesh",
+        "country_name": "India"
+      },
+      {
+        "location_id": 6,
+        "location_name": "Anna Sallai, chennai ",
+        "state_id": 6,
+        "state": "TamilNadu",
+        "country_name": "India"
+      },
+      {
+        "location_id": 7 ,
+        "location_name": " Kotayam, Kochi ",
+        "state_id": 7,
+        "state": " Kerala",
+        "country_name": "India"
+      },
+      {
+        "location_id": 8 ,
+        "location_name": " Gandi chowk, Indore ",
+        "state_id": 8 ,
+        "state": " Madhyapradesh",
+        "country_name": "India"
+      },
+      {
+        "location_id": 9,
+        "location_name": " Durga stree,kolkata ",
+        "state_id": 9,
+        "state": "Westbengal",
+        "country_name": "India"
+      },
+      {
+        "location_id": 10,
+        "location_name": "Sector 40, Chandigarh",
+        "state_id": 4,
+        "state": "Punjab",
+        "country_name": "India"
+      }
+    ]
+)
